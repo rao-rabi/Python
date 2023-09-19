@@ -34,6 +34,7 @@ f)	Data structures
     	Touple
     	Set 
     	Dictionary
+    	Generators
 g)	Functions 
     	Definition and syntax
     	Recursive functions
