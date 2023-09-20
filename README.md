@@ -34,12 +34,12 @@ f)	Data structures
     	Touple
     	Set 
     	Dictionary
-    	Generators
 g)	Functions 
     	Definition and syntax
     	Recursive functions
     	Without aurguments
     	With arguments
+    	Generators
     	Anonymus
     	Buit-in(zip, map, filter)
 
